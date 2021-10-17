@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @newnachman
-- 👀 I’m interested in web development!
-- Working with REACT.JS, ANGULAR 9+, ES6 ... in client side
-- Working with PHP, NODE.JS (LARAVEL, EXPRESS) in server side
+Hi, 
+I'm looking for an amazing job with great impact, a place where I can learn, develop and contribute from my skills. I am fun to work with, independent and sociable. Can take responsibilities on projects from A to Z, and create great vibes around me!
 
-- I like to create simple solutions for big problems, solutions that even a programer in its very first day will understand & like.
-- i like clean code & products.
-- My approach to product delivery is: simplicity in UIs, cleanliness, less is more!
-- overall, I am a very sociable person,
-I am better at understanding people & users (and business needs) than at writing code. that's the truth 😉😎😁.
+I like to create amazingly simple solutions for big problems, And to provide a very simple, readable, easy to maintain code.
+I also easily understand business requirements and users needs, I have some experience in products designing and business strategies too!
+My approach to product delivery is: simplicity in UIs, Ease of use, cleanliness, less is more!
 
+My FrontEnd stack:
+- React.JS (!!!)
+- JavaScript Vanilla & Es6
+- CSS, HTML, Jquery...
+- Some Angular knowledge and experience 
+
+My BackEnd stack:
+- Node.JS
+- PHP
+- DBs: Mysql, Mongo, Redis, Postgres
+
+Let's talk?
 contact me at: newnachman@gmail.com
 
 <!---
